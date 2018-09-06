@@ -1,2 +1,2 @@
-python mysite/manage.py runserver
+web: python mysite/manage.py runserver
 
