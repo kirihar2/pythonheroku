@@ -1,2 +1,1 @@
-web: python mysite/manage.py runserver
-
+web: gunicorn gettingstarted.wsgi
